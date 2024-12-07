@@ -1,0 +1,92 @@
+[   
+    {
+        "id": 9,
+        "title": "StockPilot",
+        "stack": ["React", "JavaScript", "Sass", "Node.js", "Express.js"],
+        "also": ["BEM naming convention"],
+        "video": "url",
+        "live": "url",
+        "GitHub": "https://github.com/cassiek/cassie-kumpula-stockpilot-client",
+        "description": ""
+    },
+    {
+        "id": 8,
+        "title": "StockPilot Server",
+        "stack": ["Node.js", "Express.js", "Knex.js", "MySQL"],
+        "also": [],
+        "video": "url",
+        "live": "url", // put the backend url
+        "GitHub": "https://github.com/cassiek/cassie-kumpula-stockpilot-server",
+        "description": ""
+    },
+    {
+        "id": 7,
+        "title": "InStock",
+        "stack": ["React", "TypeScript", "Sass", "Node.js", "Express.js"],
+        "also": ["BEM naming convention"],
+        "video": "url",
+        "live": "https://ck-instock.netlify.app/",
+        "GitHub": "",
+        "description": ""
+    },
+    {
+        "id": 6,
+        "title": "InStock Server",
+        "stack": ["Node.js", "Express.js", "Knex.js", "MySQL"],
+        "also": [],
+        "video": "url",
+        "live": "", // put the backend url
+        "GitHub": "",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "title": "BrainFlix",
+        "stack": ["React", "Sass"],
+        "also": ["BEM naming convention"],
+        "video": "url",
+        "live": "https://ck-brainflix.netlify.app/",
+        "GitHub": "",
+        "description": ""
+    },
+    {
+        "id": 4,
+        "title": "BrainFlix Back-end API",
+        "stack": ["Node.js", "Express.js"],
+        "also": [],
+        "video": "url",
+        "live": "url", // put the backend url
+        "GitHub": "",
+        "description": ""
+    },
+    {
+        "id": 3,
+        "title": "BandSite",
+        "stack": ["HTML", "Sass", "JavaScript"],
+        "also": ["BEM naming convention"],
+        "video": "url",
+        "live": "https://ck-bandsite.netlify.app/",
+        "GitHub": "",
+        "description": ""
+    },
+    {
+        "id": 2,
+        "title": "BandSite Back-end API",
+        "stack": ["Node.js", "Express.js"],
+        "also": [],
+        "video": "url",
+        "live": "url", // put the link to api info page
+        "GitHub": "",
+        "description": ""
+    },
+    { 
+        "id": 1,
+        "title": "Nitro Coffee",
+        "stack": ["HTML", "CSS"],
+        "also": ["BEM naming convention"],
+        "video": "url",
+        "live": "https://ck-nitrocoffee.netlify.app/",
+        "GitHub": "",
+        "description": ""
+    }
+]
