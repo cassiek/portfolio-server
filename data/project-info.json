@@ -1,33 +1,14 @@
 [   
     {
-        "id": 9,
-        "title": "StockPilot",
-        "stack": ["React", "JavaScript", "Sass", "Node.js", "Express.js"],
-        "also": ["BEM naming convention"],
-        "video": "url",
-        "live": "url",
-        "GitHub": "https://github.com/cassiek/cassie-kumpula-stockpilot-client",
-        "description": ""
-    },
-    {
-        "id": 8,
-        "title": "StockPilot Server",
-        "stack": ["Node.js", "Express.js", "Knex.js", "MySQL"],
-        "also": [],
-        "video": "url",
-        "live": "url", // put the backend url
-        "GitHub": "https://github.com/cassiek/cassie-kumpula-stockpilot-server",
-        "description": ""
-    },
-    {
         "id": 7,
         "title": "InStock",
         "stack": ["React", "TypeScript", "Sass", "Node.js", "Express.js"],
         "also": ["BEM naming convention"],
         "video": "url",
-        "live": "https://ck-instock.netlify.app/",
-        "GitHub": "",
-        "description": ""
+        "live": ["https://ck-instock.netlify.app/"],
+        "GitHub": "Private",
+        "description": "A full-stack inventory management system completed in a team of five group members. Has two main pages: one to display a list of all inventory, and the other for a list of all warehouses. Has full CRUD functionality to POST, GET, PUT and DELETE warehouses and individual inventory items. React front-end and Node/Express back-end connected to MySQL database. Implemented Scrum/Agile methodologies for project management. Tasks organized through Jira, with other Scrum practices implemented to manage team members, such as stand-up meetings with TAs/instructors acting as project manager, and organized group meetings to collaborate on work. Completed in a one week sprint.",
+        "requirements": "Each team member must take on an equal share of front-end/back-end tasks. Be fully present and available for stand-ups, meetings, and group work. Be available to communicate during working hours. Commit to tasks (tickets) using Jira board and complete tasks, seeking assistance/collaboration as needed. Tickets must be moved through every column to indicate stage of completion. All functionality specified in Jira tickets must be implemented without bugs. Implement Git Flow (using Git and GitHub) to manage sending and receiving updated project code. Leave detailed, frequent Git commit messages on all tasks. Resolve merge conflicts in one's own pull requests. Make pull requests of work completed with descriptions of work completed. Review team-members' pull requests. Leave comments on reviewed pull requests. Never merge pull requests without team approval. Project must match Figma mobile, tablet, desktop and component mockups at and between all breakpoints. Front-end must use React, react-router-dom, Node, Express, BEM, Sass, npm, Postman, and browser development tools. May utilize third-party libraries for dropdown and modal components. Must follow specified folder structure, naming conventions, and best practices."
     },
     {
         "id": 6,
@@ -35,9 +16,10 @@
         "stack": ["Node.js", "Express.js", "Knex.js", "MySQL"],
         "also": [],
         "video": "url",
-        "live": "", // put the backend url
-        "GitHub": "",
-        "description": ""
+        "live": ["https://ck-instock-server-333ab7b90297.herokuapp.com/api/inventories", "https://ck-instock-server-333ab7b90297.herokuapp.com/api/warehouses"],
+        "GitHub": "Private",
+        "description": "A Node and Express app connected to a MySQL database. Provides data for all warehouses, all inventory, a specific warehouse, a specific inventory item, and the inventory at a particular warehouse, using routes for /warehouses, /inventories, /warehouses/:id, /inventories/:id/, warehouses/:id/inventories, respectively. Contains routing controllers, logging middleware, and migrations and seeding files necessary for database use.",
+        "requirements": "Each team member must take on an equal share of front-end/back-end tasks. Be fully present and available for stand-ups, meetings, and group work. Be available to communicate during working hours. Commit to tasks (tickets) using Jira board and complete tasks, seeking assistance/collaboration as needed. Tickets must be moved through every column to indicate stage of completion. All functionality specified in Jira tickets must be implemented without bugs. Implement Git Flow (using Git and GitHub) to manage sending and receiving updated project code. Leave detailed, frequent Git commit messages on all tasks. Resolve merge conflicts in one's own pull requests. Make pull requests of work completed with descriptions of work completed. Review team-members' pull requests. Leave comments on reviewed pull requests. Never merge pull requests without team approval. Back-end must use Node, Express, Knex, MySQL, npm, Postman, and browser development tools. Must follow specifiec folder structure, naming conventions, and best-practices."
     },
     {
         "id": 5,
@@ -45,9 +27,10 @@
         "stack": ["React", "Sass"],
         "also": ["BEM naming convention"],
         "video": "url",
-        "live": "https://ck-brainflix.netlify.app/",
-        "GitHub": "",
-        "description": ""
+        "live": ["https://ck-brainflix.netlify.app/"],
+        "GitHub": "Private",
+        "description": "A video streaming React app, created using Vite, that implements useState, useEffect, useParams, useNavigate and ___ hooks. Has video upload functionality. Responsive at and between mobile, tablet, and desktop breakpoints. Completed in three sprints, each one week. It may take a few seconds for the live site to render.", 
+        "requirements": "Must follow specified folder structure, naming convention. Must make use of provided assets. Must use Sass, variables, mixins. Must be composed of multiple React components. Must use react-router-dom for multi-page functionality. Data must be retrieved using axios. Additional libraries can be installed using npm. Layout styled using flexbox. Must match the mockups provided. Must be responsive at and between mobile, tablet, and desktop breakpoints."
     },
     {
         "id": 4,
@@ -55,9 +38,10 @@
         "stack": ["Node.js", "Express.js"],
         "also": [],
         "video": "url",
-        "live": "url", // put the backend url
-        "GitHub": "",
-        "description": ""
+        "live": ["https://cassie-kumpula-brainflix-api.onrender.com/videos"],
+        "GitHub": "Private",
+        "description": "A Node and Express app that provides live data for BrainFlix. Provides data for all videos and detailed data for a single video. Can store new video data. Has endpoints to GET /videos, GET /videos/:id, and POST /videos. Data is persisted using file system.",
+        "requirements": "Must follow specified folder structure. Must make use of provided assets. Must have endpoints to GET /videos, GET /videos/:id, and POST /videos."
     },
     {
         "id": 3,
@@ -65,9 +49,10 @@
         "stack": ["HTML", "Sass", "JavaScript"],
         "also": ["BEM naming convention"],
         "video": "url",
-        "live": "https://ck-bandsite.netlify.app/",
-        "GitHub": "",
-        "description": ""
+        "live": ["https://ck-bandsite.netlify.app/"],
+        "GitHub": "Private",
+        "description": "A two-page, dynamic website consisting of a landing page with functionality to add comments, and a schedule page. Responsive at and between mobile, tablet, and desktop breakpoints. Makes use of Sass pseudoclasses. Completed in three sprints, each one week.",
+        "requirements": "Must implement Sass variables, mixins. Must use BEM naming convention for class names. Must be fully responsive at and between mobile, tablet, and desktop breakpoints. Must match mockups for each screen size. Must follow specified folder structure with separation of concerns. Must use flexbox for layouts. Dynamic HTML must be added by DOM methods. Event handlers must be registered using addEventListener. Create and implement a class for holding API data, including methods for making requests. API requests must be properly structured promises. Must use Axios library for making API HTTP requests."
     },
     {
         "id": 2,
@@ -75,18 +60,20 @@
         "stack": ["Node.js", "Express.js"],
         "also": [],
         "video": "url",
-        "live": "url", // put the link to api info page
-        "GitHub": "",
-        "description": ""
+        "live": ["https://unit-2-project-api-25c1595833b2.herokuapp.com/"],
+        "GitHub": "N/A",
+        "description": "Live data provided for BandSite. Has endpoints to GET /register, GET /comments, GET /showdates, POST /comments, PUT /comments/:id/like, and DELETE /comments/:id",
+        "requirements": "N/A"
     },
     { 
         "id": 1,
         "title": "Nitro Coffee",
-        "stack": ["HTML", "CSS"],
+        "stack": ["HTML", "CSS", "Sass"],
         "also": ["BEM naming convention"],
         "video": "url",
-        "live": "https://ck-nitrocoffee.netlify.app/",
-        "GitHub": "",
-        "description": ""
+        "live": ["https://ck-nitrocoffee.netlify.app/"],
+        "GitHub": "Private",
+        "description": "A two-page, static website consisting of a landing page and menu page sized for desktop screens. Completed in two sprints, each one week.",
+        "requirements": "Separation of concerns, styling in relative units, layout using flexbox, use of components, use of positioning, and use of CSS animations."
     }
 ]

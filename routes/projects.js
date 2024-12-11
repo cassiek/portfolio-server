@@ -6,8 +6,7 @@ import fs from "fs";
 router.get("/", (_req, res) => {
     console.log("get all projects api called");
     const projectData = fs.readFileSync("./data/projects.json");
-    //const parsedJsonData = JSON.parse(projectData); can I send without parsing?
-    return res.status(200).json(parsedJsonData);
+    return res.status(200).json(projectData);
 });
 
 export default router;
