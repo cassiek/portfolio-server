@@ -38,7 +38,7 @@
         "stack": ["Node.js", "Express.js"],
         "also": [],
         "video": "url",
-        "live": "https://cassie-kumpula-brainflix-api.onrender.com/videos",
+        "live": "https://ck-brainflix-api-ba876353b997.herokuapp.com/videos",
         "GitHub": "Private",
         "description": "A Node and Express app that provides live data for BrainFlix. Provides data for all videos and detailed data for a single video. Can store new video data. Has endpoints to GET /videos, GET /videos/:id, and POST /videos. Data is persisted using file system.",
         "requirements": "Must follow specified folder structure. Must make use of provided assets. Must have endpoints to GET /videos, GET /videos/:id, and POST /videos."
