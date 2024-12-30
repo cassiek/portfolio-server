@@ -12,6 +12,7 @@ app.use(express.json());
 
 app.use(express.static("public/images"));
 app.use(express.static("public/resume"));
+app.use(express.static("public/videos"));
 
 app.use("/", projectRoutes);
 
