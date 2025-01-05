@@ -62,7 +62,7 @@
     {
         "id": 2,
         "title": "BandSite Back-end API",
-        "stack": ["Node.js", "Express.js"],
+        "stack": [],
         "also": [],
         "poster": "BandSite API.png",
         "video": "BandSite API Preview.mp4",
