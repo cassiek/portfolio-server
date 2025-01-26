@@ -29,7 +29,7 @@
         "stack": ["React", "Sass"],
         "also": ["BEM naming convention"],
         "poster": "BrainFlix.png",
-        "video": "file name",
+        "video": "BrainFlix Preview.mp4",
         "live": "https://ck-brainflix.netlify.app/",
         "GitHub": "Private",
         "description": "A video streaming React app, created using Vite, that implements useState, useEffect, useParams, and useNavigate hooks. Has video upload functionality. Responsive at and between mobile, tablet, and desktop breakpoints. Completed in three sprints, each one week.",
