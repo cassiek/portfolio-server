@@ -81,6 +81,6 @@
         "live": "https://ck-nitrocoffee.netlify.app/",
         "GitHub": "Private",
         "description": "A two-page, static website consisting of a landing page and menu page sized for desktop screens. Completed in two sprints, each one week.",
-        "requirements": "Separation of concerns, styling in relative units, layout using flexbox, use of components, use of positioning, and use of CSS animations."
+        "requirements": "Implemented separation of concerns, styling in relative units, layout using flexbox, use of components, use of positioning, and use of CSS animations."
     }
 ]
