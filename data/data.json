@@ -20,7 +20,7 @@
         "video": "InStock Server Preview.mp4",
         "live": "https://ck-instock-server-333ab7b90297.herokuapp.com/api/inventories",
         "GitHub": "Private",
-        "description": "A Node and Express app connected to a MySQL database. Has endpoints to GET /inventories, POST /inventories, GET /inventories/:id, PUT /inventories/:id, DELETE /inventories/:id, GET /warehouses, POST /warehouses, GET /warehouses/:id, PUT /warehouses/:id, DELETE /warehouses/:id, and GET /warehouses/:id/inventories. Contains routing controllers, logging middleware, and migrations and seeding files necessary for database use.",
+        "description": "InStock's Node and Express app connected to a MySQL database. Has endpoints to GET /inventories, POST /inventories, GET /inventories/:id, PUT /inventories/:id, DELETE /inventories/:id, GET /warehouses, POST /warehouses, GET /warehouses/:id, PUT /warehouses/:id, DELETE /warehouses/:id, and GET /warehouses/:id/inventories. Contains routing controllers, logging middleware, and migrations and seeding files necessary for database use.",
         "requirements": "Took on an equal share of front-end/back-end tasks. Was fully present and available for stand-ups, meetings, and group work. Was available to communicate during working hours. Committed to tasks (tickets) using Jira board and completed tasks, seeking assistance/collaboration as needed. Moved tickets through every column to indicate stage of completion. Implemented all functionality specified in Jira tickets without bugs. Implemented Gitflow (using Git and GitHub) to manage sending and receiving updated project code. Left detailed, frequent Git commit messages on all tasks. Resolved merge conflicts in my own pull requests. Made pull requests of work completed with descriptions of work completed. Reviewed team-members' pull requests. Left comments on reviewed pull requests. Never mergde pull requests without team approval. Used specified back-end Node, Express, Knex, MySQL, npm, Postman, and browser development tools. Followed specific folder structure, naming conventions, and best-practices."
     },
     {
@@ -33,7 +33,7 @@
         "live": "https://ck-brainflix.netlify.app/",
         "GitHub": "Private",
         "description": "A video streaming React app, created using Vite, that implements useState, useEffect, useParams, and useNavigate hooks. Has video upload functionality. Responsive at and between mobile, tablet, and desktop breakpoints. Completed in three sprints, each one week.",
-        "requirements": "Must follow specified folder structure, naming convention. Must make use of provided assets. Must use Sass, variables, mixins. Layout must be styled using flexbox. Must match the mockups provided. Must be responsive at and between mobile, tablet, and desktop breakpoints. Must be composed of multiple React components. Must use react-router-dom for multi-page functionality. Data must be retrieved using Axios. Additional libraries can be installed using npm."
+        "requirements": "Followed specified folder structure, naming convention. Made use of provided assets as specified. Used Sass, variables, mixins. Styled layout using flexbox. Matched the mockups provided as specified. Made app responsive at and between mobile, tablet, and desktop breakpoints. Built the app using multiple React components. Used react-router-dom for multi-page functionality and retrieved data using Axios, as specified."
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "live": "https://ck-brainflix-api-ba876353b997.herokuapp.com/videos",
         "GitHub": "Private",
         "description": "A Node and Express app that provides live data for BrainFlix. Provides data for all videos and detailed data for a single video. Has endpoints to GET /videos, GET /videos/:id, and POST /videos. Data is persisted using file system.",
-        "requirements": "Must follow specified folder structure. Must make use of provided assets. Must have endpoints to GET /videos, GET /videos/:id, and POST /videos."
+        "requirements": "Followed specified folder structure. Made use of provided assets. Built endpoints to GET /videos, GET /videos/:id, and POST /videos."
     },
     {
         "id": 3,
