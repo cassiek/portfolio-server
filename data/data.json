@@ -9,7 +9,7 @@
         "live": "https://ck-instock.netlify.app/",
         "GitHub": "Private",
         "description": "An inventory management system completed in a team of five group members. Has two main pages: one to display a list of all inventory, and the other for a list of all warehouses. Has full CRUD functionality; can POST, GET, PUT and DELETE warehouses and individual inventory items. The React front-end is provided data from the Node/Express back-end connected to MySQL database. Adhered to Scrum/Agile methodologies for project management. Tasks organized through Jira, with other Scrum practices implemented to manage team members, such as stand-up meetings with TAs/instructors acting as project manager, and organized group meetings to collaborate on work. Completed in a one week sprint.",
-        "requirements": "I took on an equal share of front-end/back-end tasks. I was fully present and available for stand-ups, meetings, and group work, and was available to communicate during working hours. I committed to tasks (tickets) using Jira board and completed tasks, seeking assistance/collaboration as was needed. I moved tickets through every column to indicate stage of completion. I impletmented all functionality specified in Jira tickets without bugs. Implemented Gitflow (using Git and GitHub) to manage sending and receiving updated project code. Left detailed, frequent Git commit messages on all tasks. Resolved merge conflicts in my own pull requests. Made pull requests of work completed with descriptions of work completed. Reviewed team-members' pull requests. Left comments on reviewed pull requests. Never merged pull requests without team approval. Matched work to Figma mobile, tablet, desktop and component mockups at and between all breakpoints. Adhered to front-end specifications to use React, react-router-dom, Node, Express, BEM, Sass, npm, Postman, and browser development tools. Followed specified folder structure, naming conventions, and best practices."
+        "results": "I took on an equal share of front-end/back-end tasks. I was fully present and available for stand-ups, meetings, and group work, and was available to communicate during working hours. I committed to tasks (tickets) using Jira board and completed tasks, seeking assistance/collaboration as was needed. I moved tickets through every column to indicate stage of completion. I impletmented all functionality specified in Jira tickets without bugs. Implemented Gitflow (using Git and GitHub) to manage sending and receiving updated project code. Left detailed, frequent Git commit messages on all tasks. Resolved merge conflicts in my own pull requests. Made pull requests of work completed with descriptions of work completed. Reviewed team-members' pull requests. Left comments on reviewed pull requests. Never merged pull requests without team approval. Matched work to Figma mobile, tablet, desktop and component mockups at and between all breakpoints. Adhered to front-end specifications to use React, react-router-dom, Node, Express, BEM, Sass, npm, Postman, and browser development tools. Followed specified folder structure, naming conventions, and best practices."
     },
     {
         "id": 6,
@@ -21,7 +21,7 @@
         "live": "https://ck-instock-server-333ab7b90297.herokuapp.com/api/inventories",
         "GitHub": "Private",
         "description": "InStock's Node and Express app connected to a MySQL database. Has endpoints to GET /inventories, POST /inventories, GET /inventories/:id, PUT /inventories/:id, DELETE /inventories/:id, GET /warehouses, POST /warehouses, GET /warehouses/:id, PUT /warehouses/:id, DELETE /warehouses/:id, and GET /warehouses/:id/inventories. Contains routing controllers, logging middleware, and migrations and seeding files necessary for database use.",
-        "requirements": "Took on an equal share of front-end/back-end tasks. Was fully present and available for stand-ups, meetings, and group work. Was available to communicate during working hours. Committed to tasks (tickets) using Jira board and completed tasks, seeking assistance/collaboration as needed. Moved tickets through every column to indicate stage of completion. Implemented all functionality specified in Jira tickets without bugs. Implemented Gitflow (using Git and GitHub) to manage sending and receiving updated project code. Left detailed, frequent Git commit messages on all tasks. Resolved merge conflicts in my own pull requests. Made pull requests of work completed with descriptions of work completed. Reviewed team-members' pull requests. Left comments on reviewed pull requests. Never mergde pull requests without team approval. Used specified back-end Node, Express, Knex, MySQL, npm, Postman, and browser development tools. Followed specific folder structure, naming conventions, and best-practices."
+        "results": "Took on an equal share of front-end/back-end tasks. Was fully present and available for stand-ups, meetings, and group work. Was available to communicate during working hours. Committed to tasks (tickets) using Jira board and completed tasks, seeking assistance/collaboration as needed. Moved tickets through every column to indicate stage of completion. Implemented all functionality specified in Jira tickets without bugs. Implemented Gitflow (using Git and GitHub) to manage sending and receiving updated project code. Left detailed, frequent Git commit messages on all tasks. Resolved merge conflicts in my own pull requests. Made pull requests of work completed with descriptions of work completed. Reviewed team-members' pull requests. Left comments on reviewed pull requests. Never mergde pull requests without team approval. Used specified back-end Node, Express, Knex, MySQL, npm, Postman, and browser development tools. Followed specific folder structure, naming conventions, and best-practices."
     },
     {
         "id": 5,
@@ -33,7 +33,7 @@
         "live": "https://ck-brainflix.netlify.app/",
         "GitHub": "Private",
         "description": "A video streaming React app, created using Vite, that implements useState, useEffect, useParams, and useNavigate hooks. Has video upload functionality. Responsive at and between mobile, tablet, and desktop breakpoints. Completed in three sprints, each one week.",
-        "requirements": "Followed specified folder structure, naming convention. Made use of provided assets as specified. Used Sass, variables, mixins. Styled layout using flexbox. Matched the mockups provided as specified. Made app responsive at and between mobile, tablet, and desktop breakpoints. Built the app using multiple React components. Used react-router-dom for multi-page functionality and retrieved data using Axios, as specified."
+        "results": "Followed specified folder structure, naming convention. Made use of provided assets as specified. Used Sass, variables, mixins. Styled layout using flexbox. Matched the mockups provided as specified. Made app responsive at and between mobile, tablet, and desktop breakpoints. Built the app using multiple React components. Used react-router-dom for multi-page functionality and retrieved data using Axios, as specified."
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "live": "https://ck-brainflix-api-ba876353b997.herokuapp.com/videos",
         "GitHub": "Private",
         "description": "A Node and Express app that provides live data for BrainFlix. Provides data for all videos and detailed data for a single video. Has endpoints to GET /videos, GET /videos/:id, and POST /videos. Data is persisted using file system.",
-        "requirements": "Followed specified folder structure. Made use of provided assets. Built endpoints to GET /videos, GET /videos/:id, and POST /videos."
+        "results": "Followed specified folder structure. Made use of provided assets. Built endpoints to GET /videos, GET /videos/:id, and POST /videos."
     },
     {
         "id": 3,
@@ -57,7 +57,7 @@
         "live": "https://ck-bandsite.netlify.app/",
         "GitHub": "Private",
         "description": "A two-page, dynamic website consisting of a landing page with functionality to add comments, and a schedule page. Responsive at and between mobile, tablet, and desktop breakpoints. Makes use of Sass pseudoclasses. Completed in three sprints, each one week.",
-        "requirements": "Followed specified folder structure with separation of concerns. Used BEM naming convention for class names. Implemented Sass variables, mixins. Used flexbox for layouts. Matched mockups for each screen size. Made app responsive at and between mobile, tablet, and desktop breakpoints. Added dynamic HTML using DOM methods. Registered Event handlers using addEventListener. Created and implemented a class for holding API data, including methods for making requests. Made API requests properly structured promises. Used Axios library for making API HTTP requests."
+        "results": "Followed specified folder structure with separation of concerns. Used BEM naming convention for class names. Implemented Sass variables, mixins. Used flexbox for layouts. Matched mockups for each screen size. Made app responsive at and between mobile, tablet, and desktop breakpoints. Added dynamic HTML using DOM methods. Registered Event handlers using addEventListener. Created and implemented a class for holding API data, including methods for making requests. Made API requests properly structured promises. Used Axios library for making API HTTP requests."
     },
     {
         "id": 2,
@@ -69,7 +69,7 @@
         "live": "https://unit-2-project-api-25c1595833b2.herokuapp.com/",
         "GitHub": "N/A",
         "description": "Live data provided for BandSite. Has endpoints to GET /register, GET /comments, GET /showdates, POST /comments, PUT /comments/:id/like, and DELETE /comments/:id",
-        "requirements": "N/A"
+        "results": "N/A"
     },
     { 
         "id": 1,
@@ -81,6 +81,6 @@
         "live": "https://ck-nitrocoffee.netlify.app/",
         "GitHub": "Private",
         "description": "A two-page, static website consisting of a landing page and menu page sized for desktop screens. Completed in two sprints, each one week.",
-        "requirements": "Implemented separation of concerns, styling in relative units, layout using flexbox, use of components, use of positioning, and use of CSS animations."
+        "results": "Implemented separation of concerns, styling in relative units, layout using flexbox, use of components, use of positioning, and use of CSS animations."
     }
 ]
