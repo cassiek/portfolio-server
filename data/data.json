@@ -57,7 +57,7 @@
         "live": "https://ck-bandsite.netlify.app/",
         "GitHub": "Private",
         "description": "A two-page, dynamic website consisting of a landing page with functionality to add comments, and a schedule page. Responsive at and between mobile, tablet, and desktop breakpoints. Makes use of Sass pseudoclasses. Completed in three sprints, each one week.",
-        "requirements": "Must follow specified folder structure with separation of concerns. Must use BEM naming convention for class names. Must implement Sass variables, mixins. Must use flexbox for layouts. Must match mockups for each screen size. Must be responsive at and between mobile, tablet, and desktop breakpoints. Dynamic HTML must be added by DOM methods. Event handlers must be registered using addEventListener. Must create and implement a class for holding API data, including methods for making requests. API requests must be properly structured promises. Must use Axios library for making API HTTP requests."
+        "requirements": "Followed specified folder structure with separation of concerns. Used BEM naming convention for class names. Implemented Sass variables, mixins. Used flexbox for layouts. Matched mockups for each screen size. Made app responsive at and between mobile, tablet, and desktop breakpoints. Added dynamic HTML using DOM methods. Registered Event handlers using addEventListener. Created and implemented a class for holding API data, including methods for making requests. Made API requests properly structured promises. Used Axios library for making API HTTP requests."
     },
     {
         "id": 2,
